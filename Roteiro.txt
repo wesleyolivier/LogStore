@@ -1,0 +1,10 @@
+1) Há um único usuário cadastrado (deixei setado como padrão no Swegger para facilitar)
+ e-mail: w@w.com
+ senha: 123
+
+2) Logo no primeiro POST, setei como padrão 3 sabores ferindo a regra de negócio propositalmente para já começar vendo a validação
+
+3) Incluí o Swegger para facilitar os testes
+
+Obrigado e avaleim com carinho =)
+
